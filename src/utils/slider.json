@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Rambagh Palace",
+    "price": "24,000",
+    "detail": "Jaipur",
+    "image": "./r1.png"
+  },
+  {
+    "name": " Oberoi Udaivilas",
+    "price": "25,500",
+    "detail": "Udaipur",
+    "image": "./r2.jpg"
+  },
+  {
+    "name": "The Leela Palace",
+    "price": "35,853",
+    "detail": "New Delhi",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Kumarakom Resort",
+    "price": "12,500",
+    "detail": "Kerala",
+    "image": "./r4.jpg"
+  },
+  {
+    "name": "Oberoi Amarvilas",
+    "price": "35,500",
+    "detail": "Agra",
+    "image": "./r5.jpg"
+  },
+  {
+    "name": "Taj Mahal Palace",
+    "price": "15,000",
+    "detail": "Mumbai",
+    "image": "./r6.jpg"
+  }
+]
